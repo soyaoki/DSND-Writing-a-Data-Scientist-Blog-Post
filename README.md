@@ -46,6 +46,9 @@ A.3
 
 Basically, the SalePrice decreases over time, but the decrease tends to be reset by remodeling.
 
+# 5. Blog post
 
-# 5. Necessary acknowledgments
+https://soyaoki.github.io/2023/12/23/smart-choices-smart-homes.html
+
+# 6. Necessary acknowledgments
 - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
